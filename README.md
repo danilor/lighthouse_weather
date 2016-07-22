@@ -1,1 +1,1 @@
-# lighthouse_weather
+# Lighthouse Weather App
